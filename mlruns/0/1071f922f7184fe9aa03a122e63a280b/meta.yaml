@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Downloads/mlflowexperiments-main/mlflowexperiments-main/mlruns/0/1071f922f7184fe9aa03a122e63a280b/artifacts
+end_time: 1704700362304
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1071f922f7184fe9aa03a122e63a280b
+run_name: bouncy-whale-387
+run_uuid: 1071f922f7184fe9aa03a122e63a280b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704700357468
+status: 3
+tags: []
+user_id: DKG

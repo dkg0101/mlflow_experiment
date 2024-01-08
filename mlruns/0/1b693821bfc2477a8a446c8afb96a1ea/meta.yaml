@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Downloads/mlflowexperiments-main/mlflowexperiments-main/mlruns/0/1b693821bfc2477a8a446c8afb96a1ea/artifacts
+end_time: 1704699767121
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1b693821bfc2477a8a446c8afb96a1ea
+run_name: marvelous-bear-499
+run_uuid: 1b693821bfc2477a8a446c8afb96a1ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704699762023
+status: 3
+tags: []
+user_id: DKG
